@@ -1,0 +1,9 @@
+C:\Users\Sikoz\source\repos\TeammatesMatchupSolution\TeammatesMatchupLibrary\bin\Debug\TeammatesMatchupLibrary.dll
+C:\Users\Sikoz\source\repos\TeammatesMatchupSolution\TeammatesMatchupLibrary\bin\Debug\TeammatesMatchupLibrary.pdb
+C:\Users\Sikoz\source\repos\TeammatesMatchupSolution\TeammatesMatchupLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sikoz\source\repos\TeammatesMatchupSolution\TeammatesMatchupLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sikoz\source\repos\TeammatesMatchupSolution\TeammatesMatchupLibrary\obj\Debug\TeammatesMatchupLibrary.csprojAssemblyReference.cache
+C:\Users\Sikoz\source\repos\TeammatesMatchupSolution\TeammatesMatchupLibrary\obj\Debug\TeammatesMatchupLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Sikoz\source\repos\TeammatesMatchupSolution\TeammatesMatchupLibrary\obj\Debug\TeammatesMatchupLibrary.csproj.CopyComplete
+C:\Users\Sikoz\source\repos\TeammatesMatchupSolution\TeammatesMatchupLibrary\obj\Debug\TeammatesMatchupLibrary.dll
+C:\Users\Sikoz\source\repos\TeammatesMatchupSolution\TeammatesMatchupLibrary\obj\Debug\TeammatesMatchupLibrary.pdb
